@@ -4,7 +4,7 @@
 This project is a **React Native** application that connects to an **Arduino** microcontroller via **Bluetooth** to receive real-time **temperature and humidity** data from a **DHT11/DHT22** sensor. The app displays the collected data in a user-friendly interface, allowing users to monitor environmental conditions remotely.
 
 ## 🚀 Features
-- ✅ **Bluetooth communication** using HC-05/HC-06 module
+- ✅ **Bluetooth communication** using HM-10 module
 - ✅ **Real-time temperature and humidity monitoring**
 - ✅ **User-friendly UI** for device selection and data display
 - ✅ **JSON-based data exchange** between Arduino and the mobile app
